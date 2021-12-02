@@ -1,0 +1,46 @@
+/* CSS Hoja de Estilo hoja1.css */
+
+center {
+	justify-content: center;
+	color: red;
+	text-decoration: underline;
+	font-size: 40px;
+}
+
+table {
+	width: 80%;
+	height: 350px;
+}
+
+h0 {
+	font-size: 25px;
+}
+
+h1 {
+	color: blue;
+	text-align: right;
+}
+
+h2 {
+	color: green;
+	text-align: center;
+}
+
+h3 {
+	color: red;
+	text-align: left;
+}
+
+h4 {
+	color: red;
+	text-align: center;
+}
+
+h5 {
+	color: blue;
+	text-align: left;
+}
+h6 {
+	color: green;
+	text-align: right;
+}
